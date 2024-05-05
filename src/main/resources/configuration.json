@@ -1,0 +1,6 @@
+{
+  "floorCount": 10,
+  "maxCallAwait": 10000,
+  "elevatorsCount": 2,
+  "elevatorSpeed": 4000
+}
